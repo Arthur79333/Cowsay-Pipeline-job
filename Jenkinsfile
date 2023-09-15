@@ -13,7 +13,7 @@ pipeline {
     environment {
         COWSAY_IMG="cowsay"
         COWSAY_TEST="cowsay-test"
-		COWSAY_PORT=8080
+	COWSAY_PORT=8080
         ECR_REPO="644435390668.dkr.ecr.il-central-1.amazonaws.com/ec2-arthur"
     }
 
